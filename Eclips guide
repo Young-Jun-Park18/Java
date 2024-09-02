@@ -1,0 +1,4 @@
+1. Eclips 실행
+2. 좌측 상단 new - Java Project 선택
+3. 생성된 프로젝트 내부에 우클릭 - package 선택
+4. 생성된 package 내부에 우클릭 - class 선택 ( 생성할 때에는 public static void main(String[] args)를 체크해야 편함 
